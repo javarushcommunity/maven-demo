@@ -1,7 +1,12 @@
 ## Overview
 Demo project for description maven build tool.
 
-The article of for it(Would be added later)
+The article about Maven in russian:
+
+Part1: ["Java-проект от А до Я": Все, что вы хотели знать о Maven. Часть 1](https://javarush.ru/groups/posts/3119-java-proekt-ot-a-do-ja-vse-chto-vih-khoteli-znatjh-o-maven)
+
+Part2: ["Java-проект от А до Я": Все, что вы хотели знать о Maven. Часть 2](https://javarush.ru/groups/posts/3120-java-proekt-ot-a-do-ja-vse-chto-vih-khoteli-znatjh-o-maven-chastjh-2)
+
 ## Building
 Run next commands to see and understand the abilities of this tool:
 ```shell script
